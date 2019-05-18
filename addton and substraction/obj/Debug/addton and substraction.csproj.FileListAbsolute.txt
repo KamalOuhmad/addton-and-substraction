@@ -1,0 +1,7 @@
+C:\Users\lnuar\source\repos\addton and substraction\addton and substraction\bin\Debug\addton and substraction.exe.config
+C:\Users\lnuar\source\repos\addton and substraction\addton and substraction\bin\Debug\addton and substraction.exe
+C:\Users\lnuar\source\repos\addton and substraction\addton and substraction\bin\Debug\addton and substraction.pdb
+C:\Users\lnuar\source\repos\addton and substraction\addton and substraction\obj\Debug\addton and substraction.csprojResolveAssemblyReference.cache
+C:\Users\lnuar\source\repos\addton and substraction\addton and substraction\obj\Debug\addton and substraction.csproj.CoreCompileInputs.cache
+C:\Users\lnuar\source\repos\addton and substraction\addton and substraction\obj\Debug\addton and substraction.exe
+C:\Users\lnuar\source\repos\addton and substraction\addton and substraction\obj\Debug\addton and substraction.pdb
